@@ -57,16 +57,18 @@ p, .p {
 a {
 	font-family: "Dosis",sans-serif;
 	font-size: 12pt;
-	color: #3c3c3c;
+	color: black;
 	text-decoration: none;
 	transition: all .5s ease;
 	cursor: pointer;
 }
 
+/*
 a:hover {
 	color: #DA1C5C;
-/*	color: #9c9c9c;*/
+	color: #9c9c9c;
 }
+*/
 
 #header {
 /*	height: 100%;*/
@@ -89,6 +91,23 @@ a:hover {
 
 .fab {
 	padding-right: 10px;
+}
+
+a .fa-linkedin:hover {
+	color: #0e76a8;
+}
+
+a .fa-instagram-square:hover {
+	color: #DA1C5C;
+/*	color: linear-gradient(to bottom right,#4c68d7, #8a3ab9, #bc2a8d, #cd486b, #e95950, #fbad50, #fccc63);*/
+}
+
+a .fa-github-square:hover {
+	color: #858585;
+}
+
+a .fa-envelope-square:hover {
+	color: #C20003;
 }
 
 #projects {
@@ -220,8 +239,8 @@ a:hover {
 }
 
 .btn:hover {
-	background-color: #DA1C5C;
-/*	background-color: #9c9c9c;*/
+/*	background-color: #DA1C5C;*/
+	background-color: #9c9c9c;
 }
 
 .footer {
