@@ -129,6 +129,7 @@ a:hover {
 
 .nlp:hover {
 	background-image: url("../images/nlp-text.png");
+	background-color: #DB7500;
 	background-size: contain;
 	transition: all .5s ease;
 }
@@ -140,6 +141,7 @@ a:hover {
 
 .prediction:hover {
 	background-image: url("../images/prediction-text.png");
+	background-color: #3641DB;
 	background-size: contain;
 	transition: all .5s ease;
 }
@@ -151,6 +153,7 @@ a:hover {
 
 .airbnb:hover {
 	background-image: url("../images/airbnb-text.png");
+	background-color: #18DB28;
 	background-size: contain;
 	transition: all .5s ease;
 }
@@ -162,6 +165,7 @@ a:hover {
 
 .cookie:hover {
 	background-image: url("../images/cookie-text.png");
+	background-color: #DBC302;
 	background-size: contain;
 	transition: all .5s ease;
 }
@@ -173,6 +177,7 @@ a:hover {
 
 .cob:hover {
 	background-image: url("../images/cob-text.png");
+	background-color: #DA1C5C;
 	background-size: contain;
 	transition: all .5s ease;
 }
@@ -184,6 +189,7 @@ a:hover {
 
 .dance:hover {
 	background-image: url("../images/dance-text.png");
+	background-color: #65B8DB;
 	background-size: contain;
 	transition: all .5s ease;
 }
