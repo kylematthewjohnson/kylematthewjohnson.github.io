@@ -5,7 +5,7 @@ body {
 	color: #9c9c9c;
 }
 
-h1, h2, h3, p, .h1, .h2, .h3, .p {
+h1, h2, p {
 	font-weight: 400;
 	color: #000;
 	font-family: "Dosis",sans-serif;
@@ -13,34 +13,26 @@ h1, h2, h3, p, .h1, .h2, .h3, .p {
 }
 
 @media screen and (min-width: 601px) {
-	h1, .h1 {
+	h1 {
 		font-size: 70pt;
 	}
 	
-	h2, .h2 {
-		font-size: 36pt;
-	}
-	
-	h3, .h3 {
+	h2 {
 		font-size: 36pt;
 	}
 }
 
 @media screen and (max-width: 600px) {
-	h1, .h1 {
+	h1 {
 		font-size: 15vw;
 	}
 
-	h2, .h2 {
-		font-size: 8vw;
-	}
-
-	h3, .h3 {
+	h2 {
 		font-size: 8vw;
 	}
 }
 
-p, .p {
+p {
 	font-family: "Dosis",sans-serif;
 	font-size: 12pt;
 }
@@ -54,8 +46,8 @@ a {
 	cursor: pointer;
 }
 
+/* HEADER */
 #header {
-/*	min-height:100vh;*/
 	text-align: center;
 	padding: 10px;
 }
@@ -90,7 +82,9 @@ a .fa-github-square:hover {
 a .fa-envelope-square:hover {
 	color: #C20003;
 }
+/* /HEADER */
 
+/* PROJECTS */
 #projects {
 	background-color: #EAEAEA;
 	text-align: center;
@@ -180,7 +174,9 @@ a .fa-envelope-square:hover {
 	background-color: #DA1C5C;
 	background-size: contain;
 }
+/* /PROJECTS */
 
+/* ABOUT */
 #about {
 	padding-left: 10%;
 	padding-right: 10%;
@@ -191,6 +187,14 @@ a .fa-envelope-square:hover {
 #about h2 {
 	text-align: center;
 	padding: 10px;
+}
+/* /ABOUT */
+
+/* FOOTER */
+#footer {
+	text-align: center;
+	padding: 10px;
+	padding-bottom: 50px;
 }
 
 .btn {
@@ -207,13 +211,9 @@ a .fa-envelope-square:hover {
 	transition: all .5s ease;
 	cursor: pointer;
 }
+/* /FOOTER */
 
-.footer {
-	text-align: center;
-	padding: 10px;
-	padding-bottom: 50px;
-}
-
+/* EXTRAS */
 #extras {
 	background-color: #EAEAEA;
 	text-align: center;
@@ -259,7 +259,9 @@ a .fa-envelope-square:hover {
 	background-color: #9454DB;
 	background-size: contain;
 }
+/* /EXTRAS */
 
+/* GALLERY */
 #gallery {
 	background-color: #EAEAEA;
 	text-align: center;
@@ -351,3 +353,4 @@ a .fa-envelope-square:hover {
 .p18 {
 	background-image: url("../images/art/18.png")
 }
+/* /GALLERY */
