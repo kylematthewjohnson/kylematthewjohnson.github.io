@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800'); 
-/*	|Libre+Baskerville:400i|Open+Sans:400,400i,700');*/
 
 body {
 	background-color: white;
-/*	background-image: url("../images/background.png");*/
-/*	background-image: linear-gradient(#9c9c9c, white, #3c3c3c);*/
 	color: #9c9c9c;
 }
 
@@ -17,17 +14,14 @@ h1, h2, h3, p, .h1, .h2, .h3, .p {
 
 @media screen and (min-width: 601px) {
 	h1, .h1 {
-/*		font-size: 10vw;*/
 		font-size: 70pt;
 	}
 	
 	h2, .h2 {
-/*		font-size: 8vw;*/
 		font-size: 36pt;
 	}
 	
 	h3, .h3 {
-/*		font-size: 8vw;*/
 		font-size: 36pt;
 	}
 }
@@ -35,17 +29,14 @@ h1, h2, h3, p, .h1, .h2, .h3, .p {
 @media screen and (max-width: 600px) {
 	h1, .h1 {
 		font-size: 15vw;
-	/*	font-size: 72pt;*/
 	}
 
 	h2, .h2 {
 		font-size: 8vw;
-	/*	font-size: 36pt;*/
 	}
 
 	h3, .h3 {
 		font-size: 8vw;
-	/*	font-size: 24pt;*/
 	}
 }
 
@@ -63,16 +54,8 @@ a {
 	cursor: pointer;
 }
 
-/*
-a:hover {
-	color: #DA1C5C;
-	color: #9c9c9c;
-}
-*/
-
 #header {
-/*	height: 100%;*/
-	min-height:100vh;
+/*	min-height:100vh;*/
 	text-align: center;
 	padding: 10px;
 }
@@ -81,7 +64,6 @@ a:hover {
 	width: 50vw;
 	min-width: 300px;
 	max-width: 400px;
-/*	width: 280px;*/
 	height: auto;
 }
 
@@ -99,7 +81,6 @@ a .fa-linkedin:hover {
 
 a .fa-instagram-square:hover {
 	color: #DA1C5C;
-/*	color: linear-gradient(to bottom right,#4c68d7, #8a3ab9, #bc2a8d, #cd486b, #e95950, #fbad50, #fccc63);*/
 }
 
 a .fa-github-square:hover {
@@ -112,20 +93,15 @@ a .fa-envelope-square:hover {
 
 #projects {
 	background-color: #EAEAEA;
-/*	min-height:100vh;*/
 	text-align: center;
-/*	padding: 5px;*/
 	padding: 10px;
 }
 
 .project-grid {
 	display: grid;
-/*	grid-gap: 10px;*/
 	grid-gap: 20px;
 	grid-template-columns: auto auto auto;
-/*	padding: 5px;*/
 	padding: 10px;
-/*	background-color: #EAEAEA;*/
 }
 
 .project {
@@ -135,10 +111,19 @@ a .fa-envelope-square:hover {
 }
 
 .project:hover {
-/*	background-color: #C2C2C2;*/
-	background-color: #DA1C5C;
 	transition: all .5s ease;
 	cursor: pointer;
+}
+
+.website {
+	background-image: url("../images/website.png");
+	background-size: contain;
+}
+
+.website:hover {
+	background-image: url("../images/website-text.png");
+	background-color: #65B8DB;
+	background-size: contain;
 }
 
 .nlp {
@@ -150,7 +135,6 @@ a .fa-envelope-square:hover {
 	background-image: url("../images/nlp-text.png");
 	background-color: #DB7500;
 	background-size: contain;
-	transition: all .5s ease;
 }
 
 .prediction {
@@ -162,7 +146,6 @@ a .fa-envelope-square:hover {
 	background-image: url("../images/prediction-text.png");
 	background-color: #3641DB;
 	background-size: contain;
-	transition: all .5s ease;
 }
 
 .airbnb {
@@ -174,7 +157,6 @@ a .fa-envelope-square:hover {
 	background-image: url("../images/airbnb-text.png");
 	background-color: #18DB28;
 	background-size: contain;
-	transition: all .5s ease;
 }
 
 .cookie {
@@ -186,7 +168,6 @@ a .fa-envelope-square:hover {
 	background-image: url("../images/cookie-text.png");
 	background-color: #DBC302;
 	background-size: contain;
-	transition: all .5s ease;
 }
 
 .cob {
@@ -198,23 +179,9 @@ a .fa-envelope-square:hover {
 	background-image: url("../images/cob-text.png");
 	background-color: #DA1C5C;
 	background-size: contain;
-	transition: all .5s ease;
-}
-
-.dance {
-	background-image: url("../images/dance.png");
-	background-size: contain;
-}
-
-.dance:hover {
-	background-image: url("../images/dance-text.png");
-	background-color: #65B8DB;
-	background-size: contain;
-	transition: all .5s ease;
 }
 
 #about {
-/*	min-height:100vh;*/
 	padding-left: 10%;
 	padding-right: 10%;
 	padding-top: 10px;
@@ -233,18 +200,146 @@ a .fa-envelope-square:hover {
 	background-color: #3c3c3c;
 	color: #fff;
 	padding: 5px 25px;
-/*	transition-duration: 0.5s;*/
-	transition: all .5s ease;
-	cursor: pointer;
 }
 
 .btn:hover {
-/*	background-color: #DA1C5C;*/
-	background-color: #9c9c9c;
+	background-color: #25A0FB;
+	transition: all .5s ease;
+	cursor: pointer;
 }
 
 .footer {
 	text-align: center;
 	padding: 10px;
 	padding-bottom: 50px;
+}
+
+#extras {
+	background-color: #EAEAEA;
+	text-align: center;
+	padding: 10px;
+}
+
+.extra-grid {
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: auto auto;
+	padding: 10px;
+}
+
+.extra {
+	background-color: #9C9C9C;
+	padding-top: 100%;
+	text-align: center;
+}
+
+.extra:hover {
+	transition: all .5s ease;
+	cursor: pointer;
+}
+
+.dance {
+	background-image: url("../images/dance.png");
+	background-size: contain;
+}
+
+.dance:hover {
+	background-image: url("../images/dance-text.png");
+	background-color: #99307F;
+	background-size: contain;
+}
+
+.art {
+	background-image: url("../images/art.png");
+	background-size: contain;
+}
+
+.art:hover {
+	background-image: url("../images/art-text.png");
+	background-color: #9454DB;
+	background-size: contain;
+}
+
+.self {
+	background-image: url("../images/art/self.png");
+	background-size: contain;
+}
+
+.hands {
+	background-image: url("../images/art/hands.png");
+	background-size: contain;
+}
+
+.us {
+	background-image: url("../images/art/us.png");
+	background-size: contain;
+}
+
+.christina {
+	background-image: url("../images/art/christina.png");
+	background-size: contain;
+}
+
+.me {
+	background-image: url("../images/art/me.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.tory {
+	background-image: url("../images/art/tory.png");
+	background-size: contain;
+}
+
+.boat {
+	background-image: url("../images/art/boat.png");
+	background-size: contain;
+}
+
+.kyler {
+	background-image: url("../images/art/kyler.png");
+	background-size: contain;
+}
+
+.stars {
+	background-image: url("../images/art/stars.png");
+	background-size: contain;
+}
+
+.smell {
+	background-image: url("../images/art/smell.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.derek {
+	background-image: url("../images/art/derek.png");
+	background-size: contain;
+}
+
+.duo {
+	background-image: url("../images/art/duo.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+.jim {
+	background-image: url("../images/art/jim.png");
+	background-size: contain;
+}
+
+.mia {
+	background-image: url("../images/art/mia.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.tattoo {
+	background-image: url("../images/art/tattoo.png");
+	background-size: contain;
 }
