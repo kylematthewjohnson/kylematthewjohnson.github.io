@@ -260,86 +260,94 @@ a .fa-envelope-square:hover {
 	background-size: contain;
 }
 
-.self {
-	background-image: url("../images/art/self.png");
+#gallery {
+	background-color: #EAEAEA;
+	text-align: center;
+	padding: 10px;
+}
+
+.gallery-grid {
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: auto auto auto;
+	padding: 10px;
+}
+
+.gallery {
+	background-color: #9C9C9C;
+	padding-top: 100%;
+	text-align: center;
 	background-size: contain;
 }
 
-.hands {
-	background-image: url("../images/art/hands.png");
-	background-size: contain;
+.p01 {
+	background-image: url("../images/art/01.png")
 }
 
-.us {
-	background-image: url("../images/art/us.png");
-	background-size: contain;
+.p02 {
+	background-image: url("../images/art/02.png")
 }
 
-.christina {
-	background-image: url("../images/art/christina.png");
-	background-size: contain;
+.p03 {
+	background-image: url("../images/art/03.png")
 }
 
-.me {
-	background-image: url("../images/art/me.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
+.p04 {
+	background-image: url("../images/art/04.png")
 }
 
-.tory {
-	background-image: url("../images/art/tory.png");
-	background-size: contain;
+.p05 {
+	background-image: url("../images/art/05.png")
 }
 
-.boat {
-	background-image: url("../images/art/boat.png");
-	background-size: contain;
+.p06 {
+	background-image: url("../images/art/06.png")
 }
 
-.kyler {
-	background-image: url("../images/art/kyler.png");
-	background-size: contain;
+.p07 {
+	background-image: url("../images/art/07.png")
 }
 
-.stars {
-	background-image: url("../images/art/stars.png");
-	background-size: contain;
+.p08 {
+	background-image: url("../images/art/08.png")
 }
 
-.smell {
-	background-image: url("../images/art/smell.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
+.p09 {
+	background-image: url("../images/art/09.png")
 }
 
-.derek {
-	background-image: url("../images/art/derek.png");
-	background-size: contain;
+.p10 {
+	background-image: url("../images/art/10.png")
 }
 
-.duo {
-	background-image: url("../images/art/duo.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
+.p11 {
+	background-image: url("../images/art/11.png")
 }
 
-
-.jim {
-	background-image: url("../images/art/jim.png");
-	background-size: contain;
+.p12 {
+	background-image: url("../images/art/12.png")
 }
 
-.mia {
-	background-image: url("../images/art/mia.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
+.p13 {
+	background-image: url("../images/art/13.png")
 }
 
-.tattoo {
-	background-image: url("../images/art/tattoo.png");
-	background-size: contain;
+.p14 {
+	background-image: url("../images/art/14.png")
+}
+
+.p15 {
+	background-image: url("../images/art/15.png")
+}
+
+.p16 {
+	background-image: url("../images/art/16.png")
+}
+
+.p17 {
+	background-image: url("../images/art/17.png")
+}
+
+.p18 {
+	background-image: url("../images/art/18.png")
 }
