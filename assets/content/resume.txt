@@ -1,0 +1,85 @@
+CHOREOGRAPHY
+"The Infinite Loop" - Kyrin Grey Presents, Seattle, WA (2024)
+"Now We Are Five" - Kyrin Grey Presents, Seattle, WA (2024)
+"#reels (Stark + Lush)" - @kyringrey Instagram Video Series, Seattle, WA (2023)
+"A Story of Love or Death" - Wielding Forms Dance Festival, Seattle, WA (2023)
+"The Story of Five Minutes" - Christina Stockdale, Ogden, UT (2022)
+"Reckoning" - Kyrin Grey Presents, Seattle, WA (2022)
+"Dear You" - University of Washington, Seattle, WA (2020)
+"Versus" - Ballet Bellevue School, Bellevue, WA (2017)
+"Spring" - Beatrix Paulay, Edmonds, WA (2017)
+"At First Sight" - Tacoma City Ballet, Tacoma, WA (2014)
+"A Grand Pas de Deux…?" - Tacoma City Ballet, Tacoma, WA (2014)
+"Left Behind" - Ballet Bellevue, Bellevue, WA (2012)
+"Changing Stages" - Ballet Bellevue, Bellevue, WA (2009)
+
+SELECT DANCE PERFORMANCE
+"WANDER\WONDER" - Stone Dance Productions, choreography by Eva Stone, Whidbey Island, WA (2023) *
+"Bippy The Robot" - Glenna Burner Short Film, choreography by Jennifer L Porter, Seattle, WA (2023) *
+"Great Gatsby Pas de Deux" - City Opera Ballet, choreography by Jennifer L Porter, Bellevue, WA (2017) *
+"It’s Just an Orange Vest" - City Opera Ballet, choreography byJennifer L Porter (2017) *
+"Duet" - City Opera Ballet, choreography by Jennifer L Porter, Bellevue, WA (2017) 
+"Romeo & Juliet" - City Opera Ballet, choreography by Amber Willet, Bellevue, WA (2016) *
+"Little Bunnies" - Whim W'Him, choreography by Kate Wallich, Seattle, WA (2016) *
+"Delicious Pesticides" - Whim W'Him, choreography by Annabelle Lopez Ochoa, Seattle, WA (2016) *
+"A Disagreeable Tale of Duplicity" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2016) *
+"The Ghost Behind Me" - Whim W'Him, choreography by Dominic Walsh, Seattle, WA (2016) *
+"Overflow" - Whim W'Him, choreography by Mark Haim, Seattle, WA (2016) *
+"Brahms and Tights" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2016) *
+"La Revue de Cuisine" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2015) *
+"The Road to Here" - Whim W'Him, choreography by Ihsan Rustem, Seattle, WA (2015) *
+"into the wide welcome" - Whim W'Him, choreography by Maurya Kerr, Seattle, WA (2015) *
+"Short Acts on the Heartstrings" - Whim W'Him, choreography by Joshua Peugh, Seattle, WA (2015) *
+"Alone is the Devil" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2015) *
+"❤" - Whim W'Him, choreography by Kate Wallich, Seattle, WA (2015) *
+"RIPple effECT" - Whim W'Him, choreography by Manuel Vignoulle, Seattle, WA (2015) *
+"Soir Bleu" - Whim W'Him, choreography by Penny Saunders, Seattle, WA (2015) *
+"We are not the same" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2015) *
+"Above the Cloud" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2014) *
+"Les Sylphides" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2014) *
+"Crossroads" - Whim W'Him, choreography by Juanjo Arques, Seattle, WA (2014) *
+"Instantly Bound" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2014)
+"Monster" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2013)
+"This Is Not a Raincoat" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2013)
+"The Sofa" - Whim W'Him, choreography by Olivier Wevers, Seattle, WA (2013)
+"The Pearl Fishers" - Seattle Opera, choreography by John Malashock, Seattle, WA (2015)
+"Orphée et Eurydice" - Seattle Opera, choreography by Yannis Adoniou, Seattle, WA (2012) *
+"Carmen" - Seattle Opera, choreography by Peggy Hickey, Seattle, WA (2011)
+"The Magic Flute" - Seattle Opera, choreography by Rosa Mercedes, Seattle, WA (2011) *
+"Don Quichotte" - Seattle Opera, choreography by Sara de Luis, Seattle, WA (2011) *
+"The Firebird" - Ballet Bellevue, choreography by Jennifer L Porter, Bellevue, WA (2014) *
+"Changing Stages" - Ballet Bellevue, choreography by Kyrin Grey, Bellevue, WA (2009) *
+"Afternoon of a Faun" - Ballet Bellevue, choreography by Jennifer L Porter, Bellevue, WA (2009) *
+"Disconnected" - Ballet Bellevue, choreography by Jennifer L Porter, Bellevue, WA (2009) *
+"Black Hoodie" - Ballet Bellevue, choreography by Jennifer L Porter & Terry McKinnon, Bellevue, WA (2009) *
+"Loving You" - Ballet Bellevue, choreography by Stacy Lowenberg, Bellevue, WA (2008) *
+"Psalm: A Hymn for Healing" - Ballet Bellevue, choreography by Natascha Greenwalt, Bellevue, WA (2008) *
+"The Sleeping Beauty" - Ballet Bellevue, choreography by Jennifer L Porter after Marius Petipa, Bellevue, WA (2008)
+"Velvet Romance" - Ballet Bellevue, choreography by Jennifer L Porter, Bellevue, WA (2008) *
+"Addicted" - Ballet Bellevue, choreography by Jennifer L Porter, Bellevue, WA (2008) *
+"Rushed Goodbye" - Ballet Bellevue, choreography by Stacy Lowenberg, Bellevue, WA (2008)
+"The Snowman" - Ballet Bellevue, choreography by Jennifer L Porter, Bellevue, WA (2007) *
+"Ghostez" - Ballet Bellevue, choreography by Ronn Tice, Bellevue, WA (2007)
+"String Theory" - SD|Prism Dance Theatre, choreography by Sonia Dawkins, Seattle, WA (2009)
+"Boys First Book of Stars" - SD|Prism Dance Theatre, choreography by Amber Willet, Seattle, WA (2009) *
+"Bath of Tears" - SD|Prism Dance Theatre, choreography by Pilar Villanueva, Seattle, WA (2009) *
+"Linkage" - SD|Prism Dance Theatre, choreography by Sonia Dawkins, Seattle, WA (2009) *
+"Radio Broadway" - SD|Prism Dance Theatre, choreography by Sonia Dawkins, Seattle, WA (2008)
+"Temporary Space" - SD|Prism Dance Theatre, choreography by Anthony Burrell, Seattle, WA (2008)
+"Cu Ture" - SD|Prism Dance Theatre, choreography by Sonia Dawkins, Seattle, WA (2008)
+"Watercello" - SD|Prism Dance Theatre, choreography by Sonia Dawkins, Seattle, WA (2008) *
+"Tic or Tick" - SD|Prism Dance Theatre, choreography by Sonia Dawkins, Seattle, WA (2008) *
+* Denotes World Premiere
+
+TEACHING
+Ballet - Ballet Bellevue School, Bellevue WA (2016-2018)
+Adult Ballet - Westlake Dance Center, Seattle, WA (2017)
+Adult Ballet - Velocity Dance Center, Seattle, WA (2014-2017)
+Adult Ballet - The Studios Center for the Arts, Seattle, WA (2014-2016)
+Ballet - D.A.S.H. Center for the Arts, Tacoma WA (2010)
+Ballet - Ballet Bellevue School, Bellevue, WA (2009-2010)
+
+TRAINING
+Modern Dance, Theatre - Tacoma School of the Arts, Tacoma, WA (2004-2007)
+Ballet - Tacoma City Ballet School, Tacoma, WA (2001-2007)
+Ballet, Modern Dance, Jazz, Spanish, Character - Pacific Northwest Ballet Summer Intensive, Seattle, WA (2005,2006)

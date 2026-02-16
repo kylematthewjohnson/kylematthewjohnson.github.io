@@ -1,0 +1,17 @@
+NAME:
+Kyrin Grey
+TAGLINE:
+dancer|choreographer|producer|director|story teller|complex human person
+SHORT-BIO:
+Kyrin Grey creates contemporary dance theatre shaped by story, structure, and sound. A former professional dancer who transitioned to a career in data science before returning to the stage, Grey's work reflects a mind equally attuned to musical architecture and emotional narrative. He draws from an eclectic musical palette that spans genres and eras and loves to use live music in his performances. He continues to perform in his own productions and in collaboration with local artists and arts organizations.
+LONG-BIO:
+Kyrin Grey is a dancer and choreographer whose work bridges contemporary dance, theatre, and live music performance. 
+Kyrin performed throughout the Pacific Northwest for over a decade with companies including Whim W'Him, Seattle Opera, Village Theatre, and City Opera Ballet. He danced in original works by choreographers including Annabelle Lopez Ochoa, Olivier Wevers, Penny Saunders, Joshua Peugh, Ihsan Rustem, Jennifer Porter, Bennyroyce Royon, Sonia Dawkins, and Sara de Luis.
+Kyrin took a hiatus from performing to pursue a degree in Computer Science from the University of Washington. He currently works as a Data Scientist and Engineer while continuing his choreographic pursuits.
+Since returning to dance, Kyrin has presented three independent dance productions, premiered original works at local and national dance festivals, and continues to collaborate with local artists and arts organizations.
+LINKS:
+Whim W'Him (https://whimwhim.org/)
+Seattle Opera (https://www.seattleopera.org/)
+Village Theatre (https://villagetheatre.org/)
+City Opera Ballet (https://www.cityoperaballet.org/)
+University of Washington (https://www.washington.edu/)
