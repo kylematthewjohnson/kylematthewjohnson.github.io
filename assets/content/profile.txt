@@ -1,7 +1,7 @@
 NAME:
 Kyrin Grey
 TAGLINE:
-dancer|choreographer|producer|director|story teller|complex human person
+dancer | choreographer | producer | director | story teller | complex human person
 SHORT-BIO:
 Kyrin Grey creates contemporary dance theatre shaped by story, structure, and sound. A former professional dancer who transitioned to a career in data science before returning to the stage, Grey's work reflects a mind equally attuned to musical architecture and emotional narrative. He draws from an eclectic musical palette that spans genres and eras and loves to use live music in his performances. He continues to perform in his own productions and in collaboration with local artists and arts organizations.
 LONG-BIO:

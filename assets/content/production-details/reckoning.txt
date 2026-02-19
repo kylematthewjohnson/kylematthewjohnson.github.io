@@ -13,7 +13,7 @@ CAST-SIZE:
 PREMIERE VENUE:
 BASE Experimental Arts + Space
 DESCRIPTION:
-Reckoning is a series of imagined conversations between multiple versions of Kyrin throughout his career as a dancer. Each represent Kyrin at an important crossroads in life. This highly personal work was born out of his transition from dance to tech and marked the beginning of his new adventures in choreography.
+Reckoning is a series of imagined conversations between multiple versions of Kyrin throughout his career as a dancer. Each represent Kyrin at an important crossroads in life. This highly personal work was born out of his transition from dance to data science and marked the beginning of his new adventures in choreography.
 COLLABORATORS:
 Rhea Keller (dancer)
 Ivana Lin (dancer)
