@@ -12,6 +12,8 @@ CAST-SIZE:
 4 dancers
 PREMIERE VENUE:
 BASE Experimental Arts + Space
+FILMED VENUE:
+NOD Theater
 DESCRIPTION:
 Reckoning is a series of imagined conversations between multiple versions of Kyrin throughout his career as a dancer. Each represent Kyrin at an important crossroads in life. This highly personal work was born out of his transition from dance to data science and marked the beginning of his new adventures in choreography.
 COLLABORATORS:
@@ -19,6 +21,7 @@ Rhea Keller (dancer)
 Ivana Lin (dancer)
 Alicia Pugh (dancer)
 Leah Russell (dancer)
+Logan Thomas (lighting designer, technical director)
 TECHNICAL REQUIREMENTS:
 
 VIDEO-LINKS:
@@ -28,3 +31,4 @@ https://vimeo.com/1104932136
 https://vimeo.com/1104821294
 LINKS:
 BASE Experimental Arts + Space (https://thisisbase.org/)
+NOD Theater (https://www.exitspacedance.com/nod.php)
